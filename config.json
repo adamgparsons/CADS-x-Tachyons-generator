@@ -1,0 +1,45 @@
+{
+  "typeScale": [2.25, 1.75, 1.25, 1],
+  "spacing": [0.25, 0.5, 1, 1.5, 2, 2.5],
+  "lineHeight": [1, 1.2, 1.5, 2],
+  "customMedia": [{ "m": 48 }, { "l": 64 }],
+  "colors": {
+    "heritage-blue": "#004B88",
+    "heritage-yellow": "#FCBB69",
+    "heritage-blue-40": "#97A8CC",
+    "heritage-yellow-40": "#FDE5C4",
+    "blue-dark": "#229CFF",
+    "blue-primary": "#8AC4FF",
+    "blue-mid": "#CAEAFF",
+    "blue-light": "#F2F8FF",
+    "turquoise-dark": "#5CC0B5",
+    "turqouise-primary": "#81CEC6",
+    "turqouise-mid": "#B8E3DF",
+    "turqouise-light": "#EAF9F7",
+    "red-primary": "#DF3034",
+    "red-light": "#FAE1E1",
+    "black": "#000000",
+    "dark-grey": "#333333",
+    "mid-grey": "#606060",
+    "grey": "#9F9F9F",
+    "light-grey": "#DFDFDF",
+    "pale-grey": "#F2F2F2",
+    "white": "#FFFFFF"
+  },
+  "nested": {
+    "links": ["heritage-blue", "blue-light"]
+  },
+  "borderWidths": [0, 0.125, 0.25, 0.5, 1, 2],
+  "borderRadius": [0, 0.125, 0.25, 0.5, 1],
+  "widths": [1, 2, 4, 8, 16],
+  "maxWidths": [1, 2, 4, 8, 16, 32, 48, 64, 96],
+  "heights": [1, 2, 4, 8, 16],
+  "tables": {
+    "striped": ["dark-grey", "mid-grey", "light-grey", "white"],
+    "stripe": ["light", "dark"]
+  },
+  "typography": {
+    "measure": [30, 34, 20]
+  },
+  "opacity": [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0.025, 0]
+}
